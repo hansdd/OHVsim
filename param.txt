@@ -1,0 +1,10 @@
+1110	!number of base lines
+4788	!number of snp
+3	!number of segments per chrom for haplotype value (currently Chrom is 150cM)
+2	!number of generations after F1 (so base,F1, and N gens of Fplus)
+0.3	!proportion selected on DGV in crosses of inbred lines
+0.1	!proportion selected on DGV in crosses of outbred lines (e.g. F1's)
+20	!number of offspring per outbred cross
+10	!number of elite plants to create doubled haploids from
+10	!number of DH per elite plant
+50	!number of top DH selected
