@@ -10,6 +10,6 @@ OHVsim1.0.out is the fortran executable compiled with gfortran
 
 ch_start_stop.txt is an example file listing chromosome start and end SNPs
 
-genotyped.txt is a set of genotypes coded 0, 1, and 2
+genotyped.txt is an example genotype file with genotypes coded 0, 1, and 2
 
-param.txt is the parameter file needed to run the program
+param.txt is an example  parameter file needed to run the program
